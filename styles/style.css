@@ -184,6 +184,13 @@ h1 {
     width: 35px;
 }
 
+@media screen and (max-width: 768px) {
+    .navbar {
+        width: 70%;
+    
+    }
+}
+
 @media screen and (max-width: 600px) {
     
     h1 {
